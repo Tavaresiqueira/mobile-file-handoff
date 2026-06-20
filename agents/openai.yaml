@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mobile File Handoff"
+  short_description: "Upload local files for mobile download"
+  default_prompt: "Use $mobile-file-handoff to package this output and give me a verified mobile download link."
